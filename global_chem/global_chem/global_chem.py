@@ -496,7 +496,8 @@ class GlobalChem(object):
         'mango_phenolic_acids': MangoPhenolicAcids,                                      # Damilola Bodun & Sevien Schulhofff & Suliman Sharif
         'mango_fatty_acids': MangoFattyAcids,                                            # Damilola Bodun & Sevien Schulhofff & Suliman Sharif
         'mango_vitamins': MangoVitamins,                                                 # Damilola Bodun & Sevien Schulhofff & Suliman Sharif
-        'mango_flavonoids': MangoFlavonoids                                              # Damilola Bodun & Sevien Schulhofff & Suliman Sharif
+        'mango_flavonoids': MangoFlavonoids,                                              # Damilola Bodun & Sevien Schulhofff & Suliman Sharif
+        'constituents_of_mango': MangoPhytoCompounds
     }
 
     __INCOMPLETE_NODES = {
