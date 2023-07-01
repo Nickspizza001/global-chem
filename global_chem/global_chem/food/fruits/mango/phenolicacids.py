@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+#
+# GlobalChem - MangoPhenolicAcids
+#
+# -----------------------------
 class MangoPhenolicAcids(object):
 
     def __init__(self):

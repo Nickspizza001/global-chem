@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+#
+# GlobalChem - MangoVitamins
+#
+# -----------------------------
 class MangoVitamins(object):
 
     def __init__(self):

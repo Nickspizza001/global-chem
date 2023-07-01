@@ -1,5 +1,12 @@
-
+#!/usr/bin/env python3
+#
+# GlobalChem - Mango
+#
+# -----------------------------
 class Mango(object):
+    def __init__(self):
+        self.name = 'constituents_of_mango'
+
 
     @staticmethod
     def get_smiles():
